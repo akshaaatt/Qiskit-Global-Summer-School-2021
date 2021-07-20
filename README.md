@@ -18,15 +18,10 @@
 </p>
       
 <p align="center">
-  <a href="#about">About</a> •
+  <a href="#about">About</a>
 </p>
 
 ---
 
 ## About
 Problem statements and their solutions to the QGSS'21 Program.
-
-
-## License
-
-This Project is licensed under the [GPL version 3 or later](https://www.gnu.org/licenses/gpl-3.0.html) with sections under the [Apache License version](https://www.apache.org/licenses/LICENSE-2.0.html) 
